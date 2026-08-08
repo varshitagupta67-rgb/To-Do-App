@@ -23,3 +23,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 - JavaScript functions
 - Updating webpage content dynamically
 - Managing user interactions
+
+- ## Screenshot
+
+![To-Do List](to-do-list.png)
